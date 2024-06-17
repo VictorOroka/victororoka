@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Victor (@victororoka) an aspiring Data Analyst.
+- 👋 Hi, I’m Victor (@VictorOroka) an aspiring Data Analyst.
 - 👀 I’m interested in developing my skills in data analysis, BI tools, and project management methodologies.
 - 🌱 I’m currently learning MS Excel, SQL, data visualisation and Python.
 - 💞️ I’m looking to collaborate and contribute on interesting projects to develop my learning further.
